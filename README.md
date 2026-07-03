@@ -116,7 +116,3 @@ E-Commerce-Sales-Dashboard/
 ## 👩‍💻 Author
 
 **Priyanka Ranjit Das**
-
-
-
-These names are more searchable and attractive to recruiters than a generic repository name.
