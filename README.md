@@ -89,8 +89,8 @@ The dataset includes:
 
 ```text
 E-Commerce-Sales-Dashboard/
-│ └── Ecommerce_Sales.xlsx
-│ └── Ecommerce_Sales.ipynb
+│ └── Ecom sales new.csv
+│ └── E-commerce sales.ipynb
 │
 │── Images/
 │   └── dashboard.png
