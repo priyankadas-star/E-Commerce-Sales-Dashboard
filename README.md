@@ -70,7 +70,7 @@ The dataset includes:
 
 ## Dashboard Preview
 
-![Dashboard](images/E-com sales dashboard1.png)
+![Dashboard](images/E-comsalesdashboard1.png)
 
 ---
 
